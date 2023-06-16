@@ -1,1 +1,2 @@
-cook.special=sausage
+cook:
+   DessertMenu: ice cream
