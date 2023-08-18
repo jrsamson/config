@@ -2,7 +2,7 @@
 cook.special: cook78
 ---
 spring:
-  config
+  config:
     activate:
       on-profile: development
   
@@ -10,7 +10,7 @@ cook.special: cook100-development
 
 ---
 spring:
-  config
+  config:
     activate:
       on-profile: dev1
   
