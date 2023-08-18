@@ -9,7 +9,6 @@ cook.special: cook100-development
 ---
 spring:
   profiles: dev1
-      on-profile: dev1
   
 cook.special: cook100-dev1
 
