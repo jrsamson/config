@@ -4,7 +4,8 @@ cook.special: cook78
 spring:
   profiles: development
   
-cook.special: cook100-development1
+cook.special: cook100-development
+
 ---
 spring:
   profiles: dev1
