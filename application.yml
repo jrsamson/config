@@ -2,13 +2,13 @@
 cook.special: cook78
 ---
 spring:
-  profiles: development
+  profiles : development
   
 cook.special: cook100-development
 
 ---
 spring:
-  profiles: dev1
+  profilesi : dev1
   
 cook.special: cook100-dev1
 
