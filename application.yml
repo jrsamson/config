@@ -8,7 +8,7 @@ cook.special: cook100-development
 
 ---
 spring:
-  profilesi : dev1
+  profiles : dev1
   
 cook.special: cook100-dev1
 
